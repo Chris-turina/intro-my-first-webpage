@@ -1,14 +1,14 @@
 # intro-my-first-webpage
 
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{Exersice in html elements}, {09/05/17}_
+#### _Exersice in html elements, 09/05/17_
 
-#### By _**{James Blocker, Chris Turina}**_
+#### By _**James Blocker, Chris Turina**_
 
 ## Description
 
-_{This is an html page that describes me, it links to another page, and has photos.}_
+_This is an html page that describes me, it links to another page, and has photos._
 
 ## Setup/Installation Requirements
 
@@ -18,20 +18,20 @@ _{This is an html page that describes me, it links to another page, and has phot
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{If there are any questions our contact information is below:}_
-_{Chris Turina christopher.mturina@gmail.com}_
-_{James Blocker jamesblocker81@gmail.com}_
+_If there are any questions our contact information is below:_
+_Chris Turina christopher.mturina@gmail.com_
+_James Blocker jamesblocker81@gmail.com_
 
 ## Technologies Used
 
-_{html}_
+_html_
 
 ### License
 
-*{License is in an undetermined state. USE AT OWN RISK}*
+*License is in an undetermined state. USE AT OWN RISK*
 
-Copyright (c) 2017 **_{James Blocker, Chris Turina}_**
+Copyright (c) 2017 **_James Blocker, Chris Turina_**
